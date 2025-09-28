@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amrfoqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrfoqha" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/amr-foqha-102805354]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr foqha" height="30" width="40" /></a>
-<a href="https://fb.com/amr foqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amr foqha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amr-foqha-102805354/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-foqha-102805354/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/amr.foqha.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amr.foqha.2025" height="30" width="40" /></a>
 <a href="https://instagram.com/amr_foqha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amr_foqha1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@amr_mofeed_foqh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amr_mofeed_foqh1" height="30" width="40" /></a>
 </p>
