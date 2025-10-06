@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm amr foqha</h1>
-<h3 align="center">Professional Computer Engineer A passionate frontend developer</h3>
+<h3 align="center">Professional Computer Engineer A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrfoqha&label=Profile%20views&color=0e75b6&style=flat" alt="amrfoqha" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amrfoqha/amrfoqha](https://github.com/amrfoqha/amrfoqha)
 
-- 💬 Ask me about **HTML , CSS , JS , React , C++**
+- 💬 Ask me about **HTML , CSS , JS , React , C++ , Java , Python **
 
 - 📫 How to reach me **amr.mofeed.foqha9@gmail.com**
 
