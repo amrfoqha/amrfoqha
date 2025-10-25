@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrfoqha&label=Profile%20views&color=0e75b6&style=flat" alt="amrfoqha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrfoqha" alt="amrfoqha" /></a> </p>
-
 - 🌱 I’m currently learning **React framework,Full-Stack Using MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amrfoqha/amrfoqha](https://github.com/amrfoqha/amrfoqha)
