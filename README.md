@@ -29,8 +29,9 @@
   <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" title="LinkedIn" /></a>
   <a href="https://www.facebook.com/amr.foqha.2025" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" title="Facebook" /></a>
   <a href="https://instagram.com/amr_foqha1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" title="Instagram" /></a>
-  <a href="https://www.hackerearth.com/@amr_mofeed_foqh1" target="_blank"><img src="https://skillicons.dev/icons?i=hackerearth" width="45" title="HackerEarth" /></a>
+  <a href="https://leetcode.com/amr_mofeed_foqh1](https://leetcode.com/u/amrfoqha/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45" title="LeetCode" /></a>
 </p>
+
 
 ---
 
