@@ -38,10 +38,10 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,mysql,cpp,python" width="150" title="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,mysql,cpp,python" width="500" title="Languages" />
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,tailwind,flutter" width="150" title="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,tailwind,flutter" width="250" title="Tools" />
 </p>
 
 ---
