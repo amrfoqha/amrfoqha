@@ -16,49 +16,27 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **MERN Stack, React, Node.js, Spring Boot**  
+- 🌱 Currently learning **MERN Stack, React, Node.js, Spring Boot**  
 - 💻 Building real-world projects using **Java, React, MongoDB, Express & Node.js**  
 - 🔥 Passionate about **backend systems, APIs, databases & scalable apps**  
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, C++, Java, Python, SQL**  
-- 📫 Contact me at: **amr.mofeed.foqha9@gmail.com**  
-- 🌍 Portfolio soon…  
+- 📫 Contact me: **amr.mofeed.foqha9@gmail.com**  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/amrfoqha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="43" />
-  </a>
-  <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="43" />
-  </a>
-  <a href="https://www.facebook.com/amr.foqha.2025" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="43" />
-  </a>
-  <a href="https://instagram.com/amr_foqha1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="43" />
-  </a>
+  <a href="https://twitter.com/amrfoqha" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="43" /></a>
+  <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="43" /></a>
+  <a href="https://www.facebook.com/amr.foqha.2025" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="43" /></a>
+  <a href="https://instagram.com/amr_foqha1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="43" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
-  <img src="https://skillicons.dev/icons?i=express" width="45" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
-  <img src="https://skillicons.dev/icons?i=java" width="45" />
-  <img src="https://skillicons.dev/icons?i=spring" width="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=git" width="45" />
-  <img src="https://skillicons.dev/icons?i=linux" width="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,mysql,cpp,python,git,linux" width="45" />
 </p>
 
 ---
@@ -73,7 +51,14 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrfoqha&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=amrfoqha&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amrfoqha/amrfoqha/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -81,13 +66,6 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amrfoqha&theme=tokyonight&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 🐍 Snake Contribution Graph
-<p align="center">
-  <img src="https://github.com/amrfoqha/amrfoqha/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
