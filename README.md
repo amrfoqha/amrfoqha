@@ -1,6 +1,5 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Amr Foqha</h1>
-<h3 align="center">Full Stack Developer | Computer Engineer | MERN & Java Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Amr Foqha</h1>
+<h3 align="center">Full Stack Developer | MERN & Java Enthusiast | Professional Computer Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrfoqha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -8,50 +7,55 @@
 
 ---
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=3D85C6&center=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Spring+Developer;Problem+Solver;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF5733&center=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Spring+Developer;Problem+Solver;Always+Learning+💥" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 - 🌱 Currently learning **MERN Stack, React, Node.js, Spring Boot**  
-- 💻 Building real-world projects using **Java, React, MongoDB, Express & Node.js**  
-- 🔥 Passionate about **backend systems, APIs, databases & scalable apps**  
-- 💬 Ask me about: **HTML, CSS, JavaScript, React, C++, Java, Python, SQL**  
-- 📫 Contact me: **amr.mofeed.foqha9@gmail.com**  
+- 💻 Building projects with **Java, React, MongoDB, Express & Node.js**  
+- 🔥 Passionate about **Backend Systems, APIs & Scalable Applications**  
+- 💬 Ask me about: **HTML, CSS, JS, React, C++, Java, Python, SQL**  
+- 📫 Contact me at: **amr.mofeed.foqha9@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/amrfoqha" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="43" /></a>
-  <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="43" /></a>
-  <a href="https://www.facebook.com/amr.foqha.2025" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="43" /></a>
-  <a href="https://instagram.com/amr_foqha1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="43" /></a>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/amrfoqha" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" title="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" title="LinkedIn" /></a>
+  <a href="https://www.facebook.com/amr.foqha.2025" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" title="Facebook" /></a>
+  <a href="https://instagram.com/amr_foqha1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" title="Instagram" /></a>
+  <a href="https://www.hackerearth.com/@amr_mofeed_foqh1" target="_blank"><img src="https://skillicons.dev/icons?i=hackerearth" width="45" title="HackerEarth" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,mysql,cpp,python,git,linux" width="45" />
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,mysql,cpp,python" width="50" title="Languages" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,tailwind,flutter" width="50" title="Tools" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrfoqha&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrfoqha&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amrfoqha&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrfoqha&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amrfoqha&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=amrfoqha&theme=radical" />
 </p>
 
 ---
@@ -65,16 +69,23 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrfoqha&theme=tokyonight&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amrfoqha&theme=radical&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 ## ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Focus+on+building,+not+dreaming.&author=Amr+Foqha&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Code+is+like+magic,+turning+ideas+into+reality.&author=Amr+Foqha&theme=dark" />
 </p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⚡ Features
+- ✅ Full Stack Developer Profile  
+- ✅ MERN Stack + Java Expertise  
+- ✅ Clean, Colorful & Animated Sections  
+- ✅ GitHub Stats + Top Languages  
+- ✅ Streak + Snake Graph + Trophies  
+- ✅ Social Media & Contact Links  
+- ✅ Languages & Tools Badges  
