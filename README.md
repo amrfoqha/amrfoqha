@@ -1,72 +1,102 @@
-<h1 align="center">Hi everyone, I'm Amr Foqha 👋</h1>
-<h3 align="center">A Passionate Full Stack Developer & Professional Computer Engineer</h3>
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Amr Foqha</h1>
+<h3 align="center">Full Stack Developer | Computer Engineer | MERN & Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrfoqha&label=Profile%20views&color=0e75b6&style=flat" alt="amrfoqha" />
+  <img src="https://komarev.com/ghpvc/?username=amrfoqha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently learning **React, MERN Stack & Full-Stack Development**  
-- 👨‍💻 All my projects: **[github.com/amrfoqha](https://github.com/amrfoqha)**  
-- 💬 Ask me about: **HTML, CSS, JS, React, C++, Java, Python**  
-- 📫 Reach me at: **amr.mofeed.foqha9@gmail.com**  
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=3D85C6&center=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Spring+Developer;Problem+Solver;Always+Learning+🚀" />
+</p>
 
 ---
 
-### 🌐 Connect with me
+## 🚀 About Me  
+- 🌱 I’m currently learning **MERN Stack, React, Node.js, Spring Boot**  
+- 💻 Building real-world projects using **Java, React, MongoDB, Express & Node.js**  
+- 🔥 Passionate about **backend systems, APIs, databases & scalable apps**  
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, C++, Java, Python, SQL**  
+- 📫 Contact me at: **amr.mofeed.foqha9@gmail.com**  
+- 🌍 Portfolio soon…  
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/amrfoqha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="43" />
   </a>
   <a href="https://www.linkedin.com/in/amr-foqha-102805354/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="43" />
   </a>
   <a href="https://www.facebook.com/amr.foqha.2025" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" width="43" />
   </a>
   <a href="https://instagram.com/amr_foqha1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@amr_mofeed_foqh1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="43" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
+  <img src="https://skillicons.dev/icons?i=spring" width="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=linux" width="45" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrfoqha&show_icons=true&locale=en&layout=compact" />
+## 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrfoqha&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrfoqha&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amrfoqha&show_icons=true&locale=en" />
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrfoqha&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrfoqha" />
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amrfoqha&theme=tokyonight&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+## 🐍 Snake Contribution Graph
+<p align="center">
+  <img src="https://github.com/amrfoqha/amrfoqha/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Focus+on+building,+not+dreaming.&author=Amr+Foqha&theme=dark" />
+</p>
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
